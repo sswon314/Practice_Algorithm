@@ -1,4 +1,4 @@
-package String_Algorithm;
+package String;
 
 import java.util.*;
 
